@@ -1,6 +1,6 @@
 # AR-NIDS
 
-Adversarial-Resilient Network Intrusion Detection System (AR-NIDS) is a production-oriented Python scaffold for real-time network threat detection with adversarial hardening. It implements the core architecture from the PRD: feature engineering, a CNN encoder, a bidirectional LSTM classifier, drift monitoring, explainability hooks, and a FastAPI inference service.
+Adversarial-Resilient Network Intrusion Detection System (AR-NIDS) is a production-oriented Python scaffold for real-time network threat detection with adversarial hardening. It implements the core architecture as follows: feature engineering, a CNN encoder, a bidirectional LSTM classifier, drift monitoring, explainability hooks, and a FastAPI inference service.
 
 ## Highlights
 
